@@ -2,9 +2,10 @@
 
 A new Flutter project.
 
+| ![صفحه اول](https://github.com/javadHeidary/tic_tac_toe_project/blob/main/images/tic-1.png) | 
+| ![صفحه دوم](https://github.com/javadHeidary/tic_tac_toe_project/blob/main/images/tic-2.png) |   
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application
 
 A few resources to get you started if this is your first Flutter project:
 
